@@ -108,6 +108,9 @@ Grad-CAM (Gradient-weighted Class Activation Mapping) highlights the regions of 
 This is critical in medical AI — models must be **interpretable** for clinical adoption (FDA guidelines for AI medical devices require explainability).
 
 ### Snapshot of Grad-CAM
+
+<img width="1283" height="500" alt="Figure_3" src="https://github.com/user-attachments/assets/ed9a184f-5ef8-4047-870b-b98afe9c21fe" />
+
 <img width="1283" height="500" alt="Figure_4" src="https://github.com/user-attachments/assets/72b21f3f-1d74-4a5b-aff7-8c37e4efdb93" />
 
 ---
@@ -120,6 +123,9 @@ This is critical in medical AI — models must be **interpretable** for clinical
 - Clean, dark-themed UI
 
 ### Snapshot of Streamlit
+
+<img width="361" height="490" alt="Screenshot 2026-05-16 131042" src="https://github.com/user-attachments/assets/8834309f-bd6d-48df-9d2d-54e3aaa2d37d" />
+
 <img width="319" height="485" alt="Screenshot 2026-05-16 131156" src="https://github.com/user-attachments/assets/96f761e4-9427-489b-a1ac-fa453dd6d307" />
 
 ---
