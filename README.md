@@ -3,7 +3,7 @@
 A deep learning project that detects **Pneumonia** from chest X-ray images using a fine-tuned **ResNet50** with **Grad-CAM** explainability and a **Streamlit** web app for live demos.
 
 > **Resume bullet:**  
-> *Built a pneumonia detection system using fine-tuned ResNet50 on 5,800 chest X-rays achieving ~92% accuracy, with Grad-CAM heatmaps highlighting infected lung regions and a Streamlit diagnostic web app.*
+> *Built a pneumonia detection system using fine-tuned ResNet50 on 5,800 chest X-rays achieving 86% accuracy, with Grad-CAM heatmaps highlighting infected lung regions and a Streamlit diagnostic web app.*
 
 ---
 
@@ -61,6 +61,12 @@ This will:
 - Fine-tune ResNet50 on your chest X-ray dataset
 - Save the best model to `models/best_model.pth`
 - Plot training history and confusion matrix
+
+#### Snapshot of Training
+<img width="293" height="428" alt="Screenshot 2026-05-17 012158" src="https://github.com/user-attachments/assets/cb9ab2f4-9f5b-4cd1-a0f0-5bbda87eaf66" />
+<img width="293" height="372" alt="Screenshot 2026-05-17 012208" src="https://github.com/user-attachments/assets/cd5e3db2-3e44-4b6a-8fcd-498e66ae332c" />
+<img width="1280" height="695" alt="Figure_1" src="https://github.com/user-attachments/assets/bfb92026-f9c5-48ae-b069-3182bde66ab1" />
+<img width="1200" height="400" alt="Figure_2" src="https://github.com/user-attachments/assets/786afcf8-a515-4752-a7e4-18047264ac68" />
 
 ### 3. Generate Grad-CAM visualizations
 ```bash
